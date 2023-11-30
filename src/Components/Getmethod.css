@@ -1,0 +1,29 @@
+
+.tablee {
+    display: table;
+    border-collapse: collapse ;
+    width: 50vw;
+    margin: auto;
+    background-color: #EFF7FF; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #61AFFE
+}
+
+
+td, th,tr {
+    border: 1px solid;
+    padding: 8px; 
+    text-align: center; 
+}
+
+.get-button{
+    height: 30px;
+    width: 90px;
+    background-color: #F93E3E;
+    color: white;
+    border-radius: 5px;
+    border-color: #F93E3E;
+    
+}
